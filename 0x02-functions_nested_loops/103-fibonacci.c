@@ -7,12 +7,10 @@
  */
 
 int main(void)
-
 {
-
 	long j = 1; 
 	long k = 2;
-       long sum = k;
+	long sum = k;
 
 	while (k + j < 4000000)
 	{
